@@ -17,7 +17,6 @@ Navi是一个分布式服务框架，提供高性能和无侵入式的RPC远程�
 *  Providing Protostuff/Protobuf to serialize and deserialize data.
 *  Using optional software load balancing and failover strategy.
 *  Simple configuration with XML or annotation way to expose services in Spring.
-*  
 
 ## 特点
 ### 远程通讯
