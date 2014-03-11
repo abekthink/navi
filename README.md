@@ -29,3 +29,6 @@ Navi是一个分布式服务框架，提供高性能和无侵入式的RPC远程�
 ## User Guide
 [使用手册（中文版）](https://github.com/neoremind/navi/wiki/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C-%E4%B8%AD%E6%96%87%E7%89%88)
 
+
+[配置说明](https://github.com/neoremind/navi/wiki/%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E)
+
