@@ -1,5 +1,7 @@
 Navi
 =========
+ ![image](http://neoremind.net/wp-content/uploads/little-navi.jpg)
+ 
 Navi is a distributed service framework that provides cluster management and high performance RPC. With Navi, you can easily build distributed applications with minimal effort to create a highly scalable architecture capable of handling remote procedure call and service registration and discovery.
 
 Implemented in Java and Spring framework, Navi wraps ZooKeeper and uses Protostuff/Protobuf for transport to make it easy to build a cluster aware application. Navi allows you to focus your efforts on your application logic, so programming experience is very friendly with its simple XML or annotation configuration.
